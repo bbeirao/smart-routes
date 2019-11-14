@@ -1,0 +1,13 @@
+apps:
+  - name: "loadsmart"
+    deploy_name: "loadsmart"
+    group: "loadsmart"
+    routes:
+      - name: "loadsmart"
+        hostname: "loadsmart-dev"
+        port: "8080"
+        path: ""
+        certificate: ""
+    env_vars:
+      - DJANGO_DEBUG='True'
+      - FILE_DIR='./files'

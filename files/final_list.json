@@ -1,0 +1,142 @@
+[
+  {
+    "cargo": [
+      "Light bulbs",
+      "Sikeston",
+      "MO",
+      "36.876719",
+      "-89.5878579",
+      "Grapevine",
+      "TX",
+      "32.9342919",
+      "-97.0780654"
+    ],
+    "truck": [
+      "Viking Products Of Austin Incustin",
+      "Fort Campbell",
+      "TN",
+      "36.6634467",
+      "-87.47739020000002"
+    ]
+  },
+  {
+    "cargo": [
+      "Recyclables",
+      "Christiansburg",
+      "VA",
+      "37.1298517",
+      "-80.4089389",
+      "Apopka",
+      "FL",
+      "28.6934076",
+      "-81.5322149"
+    ],
+    "truck": [
+      "Ricardo Juradoacramento",
+      "Covesville",
+      "VA",
+      "37.8901411",
+      "-78.70474010000001"
+    ]
+  },
+  {
+    "cargo": [
+      "Apples",
+      "Columbus",
+      "OH",
+      "39.9611755",
+      "-82.99879419999999",
+      "Woodland",
+      "CA",
+      "38.67851570000001",
+      "-121.7732971"
+    ],
+    "truck": [
+      "Kjellberg'S Carpet Oneuffalo",
+      "Mount Vernon",
+      "OH",
+      "40.3933956",
+      "-82.4857181"
+    ]
+  },
+  {
+    "cargo": [
+      "Cell phones",
+      "Hickory",
+      "NC",
+      "35.7344538",
+      "-81.3444573",
+      "La Pine",
+      "OR",
+      "43.67039949999999",
+      "-121.503636"
+    ],
+    "truck": [
+      "Paul J Krez Companyorton Grove",
+      "Forest City",
+      "NC",
+      "35.3340108",
+      "-81.8651028"
+    ]
+  },
+  {
+    "cargo": [
+      "Oranges",
+      "Fort Madison",
+      "IA",
+      "40.6297634",
+      "-91.31453499999999",
+      "Ottawa",
+      "IL",
+      "41.3455892",
+      "-88.8425769"
+    ],
+    "truck": [
+      "Fish-Bones Towingew York",
+      "Monroe",
+      "WI",
+      "42.60111939999999",
+      "-89.6384532"
+    ]
+  },
+  {
+    "cargo": [
+      "Wood",
+      "Hebron",
+      "KY",
+      "39.0661472",
+      "-84.70318879999999",
+      "Jefferson",
+      "LA",
+      "29.96603709999999",
+      "-90.1531298"
+    ],
+    "truck": [
+      "Wisebuys Stores Incouverneur",
+      "Washington",
+      "WV",
+      "39.244853",
+      "-81.6637765"
+    ]
+  },
+  {
+    "cargo": [
+      "Wood",
+      "Northfield",
+      "MN",
+      "44.4582983",
+      "-93.161604",
+      "Waukegan",
+      "IL",
+      "42.3636331",
+      "-87.84479379999999"
+    ],
+    "truck": [
+      "Gary Lee Wilcoxpencer",
+      "Eagle River",
+      "WI",
+      "45.9171763",
+      "-89.2442988"
+    ]
+  }
+]

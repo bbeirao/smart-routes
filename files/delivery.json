@@ -1,0 +1,3217 @@
+[
+  {
+    "cargo": [
+      "Wood",
+      "Hebron",
+      "KY",
+      "39.0661472",
+      "-84.70318879999999",
+      "Jefferson",
+      "LA",
+      "29.96603709999999",
+      "-90.1531298"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 639591
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 3859541
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 1807105
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 921459
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 352295
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 3738796
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 426484
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 817477
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 451635
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 922983
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 3514456
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 1925609
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1908795
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1704699
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 2357310
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 2646568
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 661840
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 1738573
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 572051
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 2646736
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 1014089
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 959770
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1371747
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 496802
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 722211
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1908795
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1704699
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 282978
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1677886
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 2757032
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 3863189
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 1932534
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 985305
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 1910846
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1048735
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 479316
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 847270
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 875418
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1041081
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 780571
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 479316
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 825509
+      },
+      {
+        "truck": [
+          "Fish-Bones Towingew York",
+          "Monroe",
+          "WI",
+          "42.60111939999999",
+          "-89.6384532"
+        ],
+        "distance": 684033
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 327576
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Kjellberg'S Carpet Oneuffalo",
+        "Mount Vernon",
+        "OH",
+        "40.3933956",
+        "-82.4857181"
+      ],
+      "distance": 282978
+    }
+  },
+  {
+    "cargo": [
+      "Cell phones",
+      "Hickory",
+      "NC",
+      "35.7344538",
+      "-81.3444573",
+      "La Pine",
+      "OR",
+      "43.67039949999999",
+      "-121.503636"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 759414
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 4256130
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 1735616
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 807155
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 899297
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 4433684
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 811830
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 1514852
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 689135
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 890447
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 4133442
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 2226924
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1982817
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1667877
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 2890512
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 3196028
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 89780
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 1198831
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 423397
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 3196197
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 1711465
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 1492973
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1532427
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 1194178
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 421223
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1982817
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1667877
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 728856
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1690278
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 3070430
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 4412650
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 2005148
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 952769
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 2444048
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1016199
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 1176692
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 721251
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 1251990
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1009299
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 454609
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 1176692
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 740091
+      },
+      {
+        "truck": [
+          "Fish-Bones Towingew York",
+          "Monroe",
+          "WI",
+          "42.60111939999999",
+          "-89.6384532"
+        ],
+        "distance": 1381408
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 531304
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Paul J Krez Companyorton Grove",
+        "Forest City",
+        "NC",
+        "35.3340108",
+        "-81.8651028"
+      ],
+      "distance": 89780
+    }
+  },
+  {
+    "cargo": [
+      "Oranges",
+      "Fort Madison",
+      "IA",
+      "40.6297634",
+      "-91.31453499999999",
+      "Ottawa",
+      "IL",
+      "41.3455892",
+      "-88.8425769"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 886464
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 3193459
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 2317043
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 1508340
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 769669
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 3101213
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 928264
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 673420
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 733117
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 1509864
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 2876873
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 1527430
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 1792115
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 1980486
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 1368112
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 2217073
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 1073059
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 1980655
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 803050
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 462344
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1244149
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 375631
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 1393370
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 863671
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1564564
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 2237178
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 3197108
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 1622372
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 1571411
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 1352664
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1625278
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 1434151
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 477239
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1644356
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 1259071
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 1089866
+      },
+      {
+        "truck": [
+          "Fish-Bones Towingew York",
+          "Monroe",
+          "WI",
+          "42.60111939999999",
+          "-89.6384532"
+        ],
+        "distance": 338264
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 957480
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Fish-Bones Towingew York",
+        "Monroe",
+        "WI",
+        "42.60111939999999",
+        "-89.6384532"
+      ],
+      "distance": 338264
+    }
+  },
+  {
+    "cargo": [
+      "Recyclables",
+      "Christiansburg",
+      "VA",
+      "37.1298517",
+      "-80.4089389",
+      "Apopka",
+      "FL",
+      "28.6934076",
+      "-81.5322149"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 814778
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 4311493
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 1490401
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 560204
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 726173
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 4346841
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 638706
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 1369089
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 744498
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 645233
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 4096606
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 2270382
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 2140648
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1825708
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 2853676
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 3159192
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 325573
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 1376080
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 542268
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 3159361
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 1565701
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 1456137
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1594819
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 1048414
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 222531
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 2140648
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1825708
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 555732
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1848108
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 3125793
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 4375814
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 2162979
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 707555
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 2407212
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 770985
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 1030928
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 480640
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 1307353
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 763330
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 682232
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 1030928
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 868290
+      },
+      {
+        "truck": [
+          "Fish-Bones Towingew York",
+          "Monroe",
+          "WI",
+          "42.60111939999999",
+          "-89.6384532"
+        ],
+        "distance": 1235644
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 358180
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Ricardo Juradoacramento",
+        "Covesville",
+        "VA",
+        "37.8901411",
+        "-78.70474010000001"
+      ],
+      "distance": 222531
+    }
+  },
+  {
+    "cargo": [
+      "Wood",
+      "Northfield",
+      "MN",
+      "44.4582983",
+      "-93.161604",
+      "Waukegan",
+      "IL",
+      "42.3636331",
+      "-87.84479379999999"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 1419346
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 3193313
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 2600035
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 1864344
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 1052660
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 2731450
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 1211255
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 487284
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 1265998
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 1842174
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 2507111
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 1777588
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1942071
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1888939
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 1859381
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 1943632
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 1786307
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 2749954
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 1605940
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 1943801
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 471392
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 667261
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1493153
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 652940
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 1835193
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1942071
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1888939
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 1198482
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1848910
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 2442095
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 2893243
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 1965810
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 1854402
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 1419930
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1908269
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 645608
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 1790155
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 950782
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1927347
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 1791952
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 645608
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 1622748
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 1399303
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Gary Lee Wilcoxpencer",
+        "Eagle River",
+        "WI",
+        "45.9171763",
+        "-89.2442988"
+      ],
+      "distance": 471392
+    }
+  },
+  {
+    "cargo": [
+      "Food",
+      "Fort Madison",
+      "IA",
+      "40.6297634",
+      "-91.31453499999999",
+      "Ottawa",
+      "IL",
+      "41.3455892",
+      "-88.8425769"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 886464
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 3193459
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 2317043
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 1508340
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 769669
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 3101213
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 928264
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 673420
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 733117
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 1509864
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 2876873
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 1527430
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 1792115
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 1980486
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 1368112
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 2217073
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 1073059
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 1980655
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 803050
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 462344
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1244149
+      },
+      {
+        "truck": [
+          "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+          "Bolingbrook",
+          "IL",
+          "41.69864159999999",
+          "-88.0683955"
+        ],
+        "distance": 375631
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 1393370
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 863671
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1564564
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 2237178
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 3197108
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 1622372
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 1571411
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 1352664
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1625278
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 1434151
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 477239
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1644356
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 1259071
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 1089866
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 957480
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "Edmon'S Unique Furniture & Stone Gallery Inc.Os Angeles",
+        "Bolingbrook",
+        "IL",
+        "41.69864159999999",
+        "-88.0683955"
+      ],
+      "distance": 375631
+    }
+  },
+  {
+    "cargo": [
+      "Iron",
+      "Fort Madison",
+      "IA",
+      "40.6297634",
+      "-91.31453499999999",
+      "Ottawa",
+      "IL",
+      "41.3455892",
+      "-88.8425769"
+    ],
+    "all_trucks_info": [
+      {
+        "truck": [
+          "Hartford Plastics Incartford",
+          "Florence",
+          "AL",
+          "34.79981",
+          "-87.677251"
+        ],
+        "distance": 886464
+      },
+      {
+        "truck": [
+          "Beyond Landscape & Design Llcilsonville",
+          "Fremont",
+          "CA",
+          "37.5482697",
+          "-121.9885719"
+        ],
+        "distance": 3193459
+      },
+      {
+        "truck": [
+          "Empire Of Dirt Llcquality",
+          "Hampden",
+          "ME",
+          "44.7445421",
+          "-68.8370436"
+        ],
+        "distance": 2317043
+      },
+      {
+        "truck": [
+          "James Haas Al Haas Shelly Haasairfield",
+          "North East",
+          "MD",
+          "39.6001132",
+          "-75.94133269999999"
+        ],
+        "distance": 1508340
+      },
+      {
+        "truck": [
+          "Ibrahim Chimandalpharetta",
+          "Toledo",
+          "OH",
+          "41.6639383",
+          "-83.55521200000001"
+        ],
+        "distance": 769669
+      },
+      {
+        "truck": [
+          "John Bianchiake Havasu City",
+          "Renton",
+          "WA",
+          "47.48287759999999",
+          "-122.2170661"
+        ],
+        "distance": 3101213
+      },
+      {
+        "truck": [
+          "Macomb Iron Llchesterfield",
+          "Cleveland",
+          "OH",
+          "41.49932",
+          "-81.6943605"
+        ],
+        "distance": 928264
+      },
+      {
+        "truck": [
+          "Robert Robertsonairhope",
+          "Green Bay",
+          "WI",
+          "44.51915899999999",
+          "-88.019826"
+        ],
+        "distance": 673420
+      },
+      {
+        "truck": [
+          "Viking Products Of Austin Incustin",
+          "Fort Campbell",
+          "TN",
+          "36.6634467",
+          "-87.47739020000002"
+        ],
+        "distance": 733117
+      },
+      {
+        "truck": [
+          "Arachus Incashville",
+          "Bethlehem",
+          "PA",
+          "40.6259316",
+          "-75.37045789999999"
+        ],
+        "distance": 1509864
+      },
+      {
+        "truck": [
+          "Dawna L Zanderppleton",
+          "Burbank",
+          "WA",
+          "46.1998568",
+          "-119.0130618"
+        ],
+        "distance": 2876873
+      },
+      {
+        "truck": [
+          "Michael J Geenenaukauna",
+          "Lubbock",
+          "TX",
+          "33.5778631",
+          "-101.8551665"
+        ],
+        "distance": 1527430
+      },
+      {
+        "truck": [
+          "Peet'S Tree Serviceinterport",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Filippo Lumaroallston",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Jorge L Denisollywood",
+          "Delta",
+          "CO",
+          "38.7422062",
+          "-108.0689582"
+        ],
+        "distance": 1792115
+      },
+      {
+        "truck": [
+          "Ramiro Castilloucson",
+          "Logan",
+          "UT",
+          "41.7369803",
+          "-111.8338359"
+        ],
+        "distance": 1980486
+      },
+      {
+        "truck": [
+          "Paul J Krez Companyorton Grove",
+          "Forest City",
+          "NC",
+          "35.3340108",
+          "-81.8651028"
+        ],
+        "distance": 1368112
+      },
+      {
+        "truck": [
+          "Sullivans' Homestead Inclympia",
+          "Deerfield Beach",
+          "FL",
+          "26.3184123",
+          "-80.09976569999999"
+        ],
+        "distance": 2217073
+      },
+      {
+        "truck": [
+          "Jeffrey A Shepardypsum",
+          "Dalton",
+          "GA",
+          "34.7698021",
+          "-84.9702228"
+        ],
+        "distance": 1073059
+      },
+      {
+        "truck": [
+          "Wayne E Bollinauvoo",
+          "North Logan",
+          "UT",
+          "41.7693747",
+          "-111.8046654"
+        ],
+        "distance": 1980655
+      },
+      {
+        "truck": [
+          "Gary Lee Wilcoxpencer",
+          "Eagle River",
+          "WI",
+          "45.9171763",
+          "-89.2442988"
+        ],
+        "distance": 803050
+      },
+      {
+        "truck": [
+          "Jacques N Faucherochester",
+          "Mission",
+          "KS",
+          "39.0277832",
+          "-94.6557914"
+        ],
+        "distance": 462344
+      },
+      {
+        "truck": [
+          "Sidhu Trucking Incarrisburg",
+          "Hawkins",
+          "TX",
+          "32.58847350000001",
+          "-95.20411349999999"
+        ],
+        "distance": 1244149
+      },
+      {
+        "truck": [
+          "Ricardo Juradoacramento",
+          "Covesville",
+          "VA",
+          "37.8901411",
+          "-78.70474010000001"
+        ],
+        "distance": 1393370
+      },
+      {
+        "truck": [
+          "Turenne Auto Body Llchorp",
+          "Schertz",
+          "TX",
+          "29.5521737",
+          "-98.269734"
+        ],
+        "distance": 1598633
+      },
+      {
+        "truck": [
+          "Allen R Pruittrown City",
+          "La Porte",
+          "TX",
+          "29.6657838",
+          "-95.0193728"
+        ],
+        "distance": 1577101
+      },
+      {
+        "truck": [
+          "Kjellberg'S Carpet Oneuffalo",
+          "Mount Vernon",
+          "OH",
+          "40.3933956",
+          "-82.4857181"
+        ],
+        "distance": 863671
+      },
+      {
+        "truck": [
+          "Dupree Testing Services Incutchinson",
+          "Houston",
+          "TX",
+          "29.7604267",
+          "-95.3698028"
+        ],
+        "distance": 1564564
+      },
+      {
+        "truck": [
+          "Vincent Rodriguezansas City",
+          "Flagstaff",
+          "AZ",
+          "35.1982836",
+          "-111.651302"
+        ],
+        "distance": 2237178
+      },
+      {
+        "truck": [
+          "Loren Martinrand Junction",
+          "Forest Grove",
+          "OR",
+          "45.5198364",
+          "-123.1106631"
+        ],
+        "distance": 3197108
+      },
+      {
+        "truck": [
+          "I N H Relocation Services Incoodbridge",
+          "San Antonio",
+          "TX",
+          "29.4241219",
+          "-98.49362819999999"
+        ],
+        "distance": 1622372
+      },
+      {
+        "truck": [
+          "Arrow Towing Llcent",
+          "Hackettstown",
+          "NJ",
+          "40.8539879",
+          "-74.8290555"
+        ],
+        "distance": 1571411
+      },
+      {
+        "truck": [
+          "Scott Cassidylanchardville",
+          "Denver",
+          "CO",
+          "39.76161889999999",
+          "-104.9622498"
+        ],
+        "distance": 1352664
+      },
+      {
+        "truck": [
+          "Como Construction Llcottstown",
+          "Wanaque",
+          "NJ",
+          "41.0381525",
+          "-74.2940378"
+        ],
+        "distance": 1625278
+      },
+      {
+        "truck": [
+          "High Pines Farm Llcontello",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jwj Interests Incealy",
+          "Glen Burnie",
+          "MD",
+          "39.1626084",
+          "-76.6246886"
+        ],
+        "distance": 1434151
+      },
+      {
+        "truck": [
+          "Efrain Morales Diazorwalk",
+          "Marshfield",
+          "MO",
+          "37.338658",
+          "-92.9071209"
+        ],
+        "distance": 477239
+      },
+      {
+        "truck": [
+          "Rubye Hunterincolnton",
+          "Elizabeth",
+          "NJ",
+          "40.6639916",
+          "-74.2107006"
+        ],
+        "distance": 1644356
+      },
+      {
+        "truck": [
+          "Jevin Q Watsonillsboro",
+          "McDonough",
+          "GA",
+          "33.4473361",
+          "-84.1468616"
+        ],
+        "distance": 1259071
+      },
+      {
+        "truck": [
+          "Martinez Transport Llcdaho Falls",
+          "Chicago",
+          "IL",
+          "41.8781136",
+          "-87.6297982"
+        ],
+        "distance": 421135
+      },
+      {
+        "truck": [
+          "Jeffery Allan Luiacine",
+          "Tuscaloosa",
+          "AL",
+          "33.2098407",
+          "-87.56917349999999"
+        ],
+        "distance": 1089866
+      },
+      {
+        "truck": [
+          "Wisebuys Stores Incouverneur",
+          "Washington",
+          "WV",
+          "39.244853",
+          "-81.6637765"
+        ],
+        "distance": 957480
+      }
+    ],
+    "pickup": {
+      "truck": [
+        "High Pines Farm Llcontello",
+        "Chicago",
+        "IL",
+        "41.8781136",
+        "-87.6297982"
+      ],
+      "distance": 421135
+    }
+  }
+]
