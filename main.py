@@ -10,6 +10,7 @@ def main():
     delivery, delivery_reduced = deliveryService.run(cargo, truck)
     print(delivery)
     print('##############')
+    print('Simple Result')
     print(delivery_reduced)
 
 

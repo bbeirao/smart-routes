@@ -24,10 +24,10 @@ class FileService:
                         line_count += 1
             return file_info
         except FileNotFoundError:
-            logger.error("File not found error! Verify if file exists.")
+            logger.error('File not found error! Verify if file exists.')
             raise FileNotFoundError
         except IOError:
-            logger.error("File reading error!")
+            logger.error('File reading error!')
             raise IOError
 
 
@@ -41,7 +41,7 @@ class DeliveryService:
         self.unprocessed_list = []
 
     def run(self, cargos, trucks):
-        logger.info("Start processing")
+        logger.info('Start processing')
         self.trucks = trucks
         try:
             for current_cargo in cargos:
@@ -58,11 +58,11 @@ class DeliveryService:
                                               all_trucks_info)
                 self.build_routes(cargo, self.delivery_list)
         except (Exception, TypeError) as e:
-            error_message = "File reading error!"
+            error_message = 'File reading error!'
             logger.error(error_message, e)
 
         while len(self.unprocessed_list) > 0:
-            logger.info("Repeat trucks cargos reprocess")
+            logger.info('Repeat trucks cargos reprocess')
             self.unprocessed_list = self.process_cargos(self.unprocessed_list)
 
         return self.build_final_list(self.delivery_list)
@@ -194,7 +194,7 @@ class DeliveryService:
             truck_long = truck[4]
             cargo_lat = cargo_origin[3]
             cargo_long = cargo_origin[4]
-            logger.info("Distance check with Google API")
+            logger.info('Distance check with Google API')
             resp = requests.get(maps_url +
                                 'origins=' + truck_lat + ',' + truck_long +
                                 '&destinations=' + cargo_lat + ',' + cargo_long +

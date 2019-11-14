@@ -17,8 +17,8 @@ class TestRequests(unittest.TestCase):
         unittest.main()
 
     def setUp(self):
-        self.cargo = fileService.run("cargo.csv")
-        self.truck = fileService.run("trucks.csv")
+        self.cargo = fileService.run('cargo.csv')
+        self.truck = fileService.run('trucks.csv')
 
     def test_process(self):
         delivery, _ = deliveryService.run(self.cargo, self.truck)
@@ -28,7 +28,7 @@ class TestRequests(unittest.TestCase):
         assert delivery == data
 
     def test_different_cargo(self):
-        cargo = fileService.run("different_cargo.csv")
+        cargo = fileService.run('different_cargo.csv')
         delivery, _ = deliveryService.run(cargo, self.truck)
         with open('./files/different_final_list.json') as json_file:
             final_list = json.load(json_file)
@@ -42,13 +42,13 @@ class TestRequests(unittest.TestCase):
         final_list, _ = deliveryService.build_final_list(list)
         assert final_list == final_list_dict
 
-    def test_file_error(self):
+    def test_cargo_file_error(self):
         with self.assertRaises(FileNotFoundError):
-            fileService.run("cargo.cs")
+            fileService.run('cargo.cs')
 
-    def test_file_error(self):
+    def test_truck_file_error(self):
         with self.assertRaises(FileNotFoundError):
-            fileService.run("truck.cs")
+            fileService.run('truck.cs')
 
     def test_url_error(self):
         api_key = 'AIzaSyCeWKMOb4DcNBKkTyJKM8vSYxDVnQPlS3U'
